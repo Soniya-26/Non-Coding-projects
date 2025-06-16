@@ -34,7 +34,7 @@ Standard Operating Procedure for conducting technical & cultural college events.
 MCA Graduate | Skilled in Documentation, Workflows, HR Coordination  
 📍 Bengaluru, India  
 📧 soniyan9717@gmail.com  
-📎 [LinkedIn Profile](🔗 https://www.linkedin.com/in/g-soniya-0aa1742b2)
+🔗 https://www.linkedin.com/in/g-soniya-0aa1742b2
 
 ---
 
