@@ -10,7 +10,7 @@ These projects demonstrate my understanding of workflows, documentation, onboard
 ### 1. 🎟️ IT Support Ticketing Workflow Simulation
 A mock support scenario showing how IT handles an employee's ticket from issue to resolution.
 
-- 📄 [Download PDF]([./G_Soniya_IT_Support_Ticketing_Workflow_Project.pdf](https://github.com/Soniya-26/Non-Coding-projects/blob/main/G_Soniya_Employee_Onboarding_Process_Design.pdf))
+- 📄 [Download PDF](https://github.com/Soniya-26/Non-Coding-projects/blob/main/G_Soniya_Employee_Onboarding_Process_Design.pdf)
 
 ---
 
