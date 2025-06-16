@@ -24,7 +24,7 @@ Step-by-step onboarding process for new employees including checklist and sample
 ### 3. 🎭 SOP for Organizing College Events
 Standard Operating Procedure for conducting technical & cultural college events.
 
-- 📄 [Download PDF](./G_Soniya_SOP_College_Events.pdf)
+- 📄 [Download PDF](./G_Soniya_SOP_College_Events.pdf](https://github.com/Soniya-26/Non-Coding-projects/blob/main/G_Soniya_SOP_College_Events.pdf)
 
 ---
 
